@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/project/29698). 
+
 # Custom Split Keyboard
 
 The PCBs for my custom split keyboard are available in this repository.
