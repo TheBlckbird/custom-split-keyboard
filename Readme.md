@@ -1,4 +1,4 @@
-View this project on [CADLAB.io](https://cadlab.io/project/29698). 
+⚠️ **Disclaimer! WIP** ⚠️ This PCB won't work in its current form!
 
 # Custom Split Keyboard
 
