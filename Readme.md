@@ -10,7 +10,7 @@ The other unique thing is that it has arrow keys.
 
 | **left**  | **right**  |
 |-----------|------------|
-| <img width="988" height="959" alt="Keyboard left side" src="https://github.com/user-attachments/assets/f3ee4bcc-01db-4056-882c-068f41bc88eb" /> | <img width="981" height="969" alt="Keyboard right side" src="https://github.com/user-attachments/assets/c15e4b5b-d9c1-45f8-b48d-f3f1505cbfdc" /> |
+| <img width="984" height="967" alt="Keyboard left side" src="https://github.com/user-attachments/assets/4048a593-a073-424a-b16b-bb700be96313" /> | <img width="987" height="967" alt="Keyboard right side" src="https://github.com/user-attachments/assets/39ca93b0-1cb5-417b-9cec-a1d0fe19d59e" /> |
 
 ## Roadmap for future versions
 
