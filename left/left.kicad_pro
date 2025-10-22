@@ -70,6 +70,14 @@
         [
           "silk_over_copper|225900000|110260000|26fac2ce-c46d-4e9a-95f1-b0454e7abed4|00000000-0000-0000-0000-000000000000",
           ""
+        ],
+        [
+          "unconnected_items|228970000|91630000|F.Cu|4|39953b42-8aa3-4bcc-ae05-32b26ffb97ea|2ad09d94-8bca-46a5-8942-b39a54d12451",
+          "Connected in the component"
+        ],
+        [
+          "unconnected_items|232174831|92434510|F.Cu|4|279c739d-9c51-4688-8041-0964a1f43930|dccc6906-d226-4f22-b280-287b786581bb",
+          "Connected in the component"
         ]
       ],
       "meta": {
